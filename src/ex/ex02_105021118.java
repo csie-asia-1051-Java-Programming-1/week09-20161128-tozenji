@@ -7,7 +7,7 @@
  * Author: 1050210XX 周永振老師
  */
 
-public class ex02 {
+public class ex02_105021118 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
